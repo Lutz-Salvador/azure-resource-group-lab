@@ -1,9 +1,9 @@
 Azure Resource Group Lab
 
-Project Summary
+Project Summary - 
 This project shows how I created and documented my first Azure Resource Group using the Azure Portal, while also setting up Git Bash, Git version control, and a Terraform starter file.
 
-Why This Project Matters
+Why This Project Matters - 
 Resource groups are one of the most basic and important building blocks in Azure. They help organize resources, manage access, and support clean cost control and lifecycle management.
 
 - Azure Resource Group
@@ -18,7 +18,7 @@ Files in This Repo
 - `troubleshooting.md` - troubleshooting case
 - `screenshots/` - proof of lab completion
 
-Screenshots
+Screenshots - 
 Add screenshots here:
 - Resource Groups page
 - Resource Group creation form
