@@ -31,3 +31,4 @@ What I Learned
 - Why naming matters
 - How Azure Portal and Git Bash fit into cloud work
 
+# azure-resource-group-lab
