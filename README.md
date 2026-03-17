@@ -18,8 +18,7 @@ Files in This Repo
 - `troubleshooting.md` - troubleshooting case
 - `screenshots/` - proof of lab completion
 
-Screenshots - 
-Add screenshots here:
+Screenshots:
 - Resource Groups page
 - Resource Group creation form
 - Deployment success
